@@ -1,0 +1,19 @@
+.ex-1-square:hover {
+  transition: all ease 1s;
+  background-color: red;
+}
+
+.ex-2-square:hover {
+  transform: all ease-in .5s;
+  width: 100%;
+}
+
+.ex-3-square:hover {
+  transform: all ease .5s;
+  border-radius: 50%;
+}
+
+.ex-4-square:hover {
+  transform: all ease .5s;
+  background-color: transparent;
+}
